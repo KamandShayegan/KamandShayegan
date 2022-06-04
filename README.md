@@ -27,5 +27,5 @@ Here are some ideas to get you started:
 
 
 <a href="https://www.instagram.com/iamkamand/">
- My IG account: <img align="left" alt="Abhishek's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png"/>
+ My IG account: <img align="right" alt="Kamand's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png"/>
 </a>
