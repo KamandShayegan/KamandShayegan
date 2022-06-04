@@ -24,3 +24,8 @@ Here are some ideas to get you started:
  <img class="img" src="https://github-readme-stats.vercel.app/api?username=kamandshayegan&count_private=true&show_icons=true&theme=tokyonight" />
 
 </div> -->
+
+
+<a href="https://www.instagram.com/iamkamand/">
+  <img align="left" alt="Abhishek's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png"/>
+</a>
