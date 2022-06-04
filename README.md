@@ -21,6 +21,10 @@ Here are some ideas to get you started:
   <img alt="Kamand's Instagram" align="left" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png"/>
 </a>
 
+<a href="https://www.linkedin.com/in/kamand-shayegan-4361041a7/">
+  <img align="left" alt="Kamand's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kamandshayegan&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- <div style="display: flex; flex-direction: row;">
