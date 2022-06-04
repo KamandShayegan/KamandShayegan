@@ -28,6 +28,7 @@ Here are some ideas to get you started:
 </div> -->
 
 <!-- ![Kamands Work Env](https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif) -->
+<br />
 
  - I'm a computer engineer enthusiast, mostly developing mobile applications.
  - I'm great at spotting weak points and problematic concepts... and great at team-work.
