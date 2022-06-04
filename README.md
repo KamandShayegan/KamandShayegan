@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 - Instagram: [@iamkamand](https://www.instagram.com/iamkamand/)
 
 <br />
-📈 my github stats
+### 📈 my github stats
 <br />
 <br />
 
