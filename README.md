@@ -34,6 +34,8 @@ Here are some ideas to get you started:
  - I'm great at spotting weak points and problematic concepts... and great at team-work.
  - I'm currently learning Kotlin (in order to become a professional native android developer) and I have nearly +1.5 years of Flutter developing experience.
 
+<br />
+
 ### 📫 How to reach me:
 
 - email: <a href="mailto:w.kshayegan@gmail.com"> w.kshayegan@gmail.com </a>
