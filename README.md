@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 <!-- ![Kamands Work Env](https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif) -->
 
  - I'm a computer engineer enthusiast, mostly working on mobile applications.
- - I'm currently learning Kotlin (in order to become a native android developer) and I have nearly +1.5 years of Flutter developing experience.
+ - I'm currently learning Kotlin (in order to become a professional native android developer) and I have nearly +1.5 years of Flutter developing experience.
 
 ### 📫 How to reach me:
 
