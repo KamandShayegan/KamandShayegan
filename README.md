@@ -1,4 +1,5 @@
-### Hi there 👋 I am Kamand!
+
+ ### Hi, I'm Kamand & I ❤️ coding.
 
 <!--
 **KamandShayegan/KamandShayegan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -12,24 +13,41 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 
 -->
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kamandshayegan&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) -->
 
-<a href="https://www.instagram.com/iamkamand/">
-  <img alt="Kamand's Instagram" align="left" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png"/>
-</a>
+![Kamands Work Env](https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif)
 
-<a href="https://www.linkedin.com/in/kamand-shayegan-4361041a7/">
-  <img align="left" alt="Kamand's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
-\\
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kamandshayegan&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+ #### - I'm a computer engineer enthusiast, mostly working on mobile applications. Go ahead if you wanna know more about me.
+#### - I'm currently learning Kotlin (in order to become a native android developer) and I have nearly +1.5 years of Flutter developing experience.
+
+### 📫 How to reach me:
+
+- email: <a href="mailto:w.kshayegan@gmail.com"> w.kshayegan@gmail.com </a>
+
+- LinkedIn: [KamandShayegan](https://www.linkedin.com/in/kamand-shayegan-4361041a7/)
+- Instagram: [@iamkamand](https://www.instagram.com/iamkamand/)
+
+
+<br />
+<br />
+📈 my github stats
+<br />
+<br />
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kamandshayegan&count_private=true&show_icons=true&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- <div style="display: flex; flex-direction: row;">
   <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamandshayegan&layout=compact&theme=tokyonight" />
  <img class="img" src="https://github-readme-stats.vercel.app/api?username=kamandshayegan&count_private=true&show_icons=true&theme=tokyonight" />
 
 </div> -->
+
+<!-- https://open.spotify.com/user/s2zngaj7nt3ftk0ut5urf7r1a?si=BouZdWouTSKTIGfBFDWN_Q -->
+
+⚡ Fun fact
+
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=s2zngaj7nt3ftk0ut5urf7r1a&unique={1})
 
