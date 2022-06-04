@@ -42,7 +42,9 @@ Here are some ideas to get you started:
 - Instagram: [@iamkamand](https://www.instagram.com/iamkamand/)
 
 <br />
+
 ### 📈 my github stats
+
 <br />
 <br />
 
@@ -56,7 +58,7 @@ Here are some ideas to get you started:
 
 <!-- https://open.spotify.com/user/s2zngaj7nt3ftk0ut5urf7r1a?si=BouZdWouTSKTIGfBFDWN_Q -->
 
-⚡ Fun fact
+### ⚡ Fun fact
 
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=s2zngaj7nt3ftk0ut5urf7r1a&unique={1})
 
