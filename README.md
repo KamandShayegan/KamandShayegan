@@ -18,7 +18,9 @@ Here are some ideas to get you started:
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kamandshayegan&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) -->
 
-![Kamands Work Env](https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif)
+<img src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif" width="450"/>
+
+<!-- ![Kamands Work Env](https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif) -->
 
  - I'm a computer engineer enthusiast, mostly working on mobile applications. Go ahead if you wanna know more about me.
  - I'm currently learning Kotlin (in order to become a native android developer) and I have nearly +1.5 years of Flutter developing experience.
