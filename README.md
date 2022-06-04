@@ -18,13 +18,19 @@ Here are some ideas to get you started:
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kamandshayegan&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) -->
 
+<div align='center'>
 <img src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif" width="450"/>
+</div>
 
 <!-- ![Kamands Work Env](https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif) -->
 
  - I'm a computer engineer enthusiast, mostly developing mobile applications.
  - I'm great at spotting weak points and problematic concepts... and great at team-work.
- <img src="https://vandaei.ir/wp-content/uploads/2021/04/animation_640_knud1x9i.gif" width="250"/>
+
+<div align='center'>
+ <img src="https://vandaei.ir/wp-content/uploads/2021/04/animation_640_knud1x9i.gif" width="200"/>
+</div>
+ 
  - I'm currently learning Kotlin (in order to become a professional native android developer) and I have nearly +1.5 years of Flutter developing experience.
 
 ### 📫 How to reach me:
