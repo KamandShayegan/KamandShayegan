@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 - email: <a href="mailto:w.kshayegan@gmail.com"> w.kshayegan@gmail.com </a>
 
 - LinkedIn: [KamandShayegan](https://www.linkedin.com/in/kamand-shayegan-4361041a7/)
-- Instagram: [@iamkamand](https://www.instagram.com/iamkamand/)
+<!-- - Instagram: [@iamkamand](https://www.instagram.com/iamkamand/) -->
 
 <br />
 
