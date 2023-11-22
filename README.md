@@ -30,22 +30,26 @@ Here are some ideas to get you started:
 <!-- ![Kamands Work Env](https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif) -->
 <br />
 
- - I'm a computer engineer enthusiast, mostly developing mobile applications.
- - I'm great at spotting weak points and problematic concepts... and great at team-work.
- - I have 2 years of mobile developing experience.
+ - I am a computer engineer enthusiast who dedicated most of her time to developing mobile applications.
+ - I have nearly 3 years of development experience.
+ - I am great at spotting weak points and problematic concepts, and I can confidently say that am great at teamwork.
+ - I have invested significant time in learning about product development, such as the user interface, mobile applications, websites, and APIs.
+ - 🌱 I’m currently learning how to work with data, and that is why I am studying for a master's degree of Computer Science and Engineering (CSE) at the University of Oulu.
+
+ - And lastly, learning new things is fun (after running 🏃🏻‍♀️ of course)! 😄 
 
 ### 📫 How to reach me:
 
-- email: <a href="mailto:w.kshayegan@gmail.com"> w.kshayegan@gmail.com </a>
+- E-mail: <a href="mailto:w.kshayegan@gmail.com"> w.kshayegan@gmail.com </a>
 
 - LinkedIn: [KamandShayegan](https://www.linkedin.com/in/kamand-shayegan-4361041a7/)
 <!-- - Instagram: [@iamkamand](https://www.instagram.com/iamkamand/) -->
 
 <br />
 
-### 📈 my github stats
+<!-- ### 📈 my github stats -->
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kamandshayegan&count_private=true&show_icons=true&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kamandshayegan&count_private=true&show_icons=true&theme=buefy)](https://github.com/anuraghazra/github-readme-stats) -->
 
 <!-- <div style="display: flex; flex-direction: row;">
   <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamandshayegan&layout=compact&theme=tokyonight" />
