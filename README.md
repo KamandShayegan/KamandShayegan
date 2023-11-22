@@ -17,9 +17,8 @@ Here are some ideas to get you started:
 -->
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kamandshayegan&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) -->
-
 <div align='left'>
-<img src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif" width="450"/>
+<img src="https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif" width="450"/>
 </div>
 
 <!-- 
