@@ -30,11 +30,12 @@ Here are some ideas to get you started:
 <br />
 
  - I am a computer engineer enthusiast who dedicated most of her time to developing mobile applications.
- - 🌱 I’m currently interested in data analyzation and  artificial intelligence, and that is why I am studying for a
+ - 🌱 I’m currently interested in data analysis and  artificial intelligence, and that is why I am studying for a
 master's degree in CS-AI track at the University of Oulu.
  - I have nearly 2.5 years of professional development experience.
  - I am great at spotting weak points and problematic concepts, and I can confidently say that I am really good at teamwork.
  - And lastly, brainstorming and problem-solving are food to my soul.
+ - 🏃‍♀️ Running keeps me grounded.
 
 ### 📫 How to reach me:
 
