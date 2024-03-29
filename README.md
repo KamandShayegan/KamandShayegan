@@ -34,9 +34,7 @@ Here are some ideas to get you started:
 master's degree in CS-AI track at the University of Oulu.
  - I have nearly 2.5 years of professional development experience.
  - I am great at spotting weak points and problematic concepts, and I can confidently say that I am really good at teamwork.
- - I have invested significant time in learning about product development, such as the user interface, mobile applications, websites, and APIs.
-
- - And lastly, learning new things is fun (after running 🏃🏻‍♀️ of course)! 😄 
+ - And lastly, brainstorming and problem-solving are food to my soul.
 
 ### 📫 How to reach me:
 
@@ -58,6 +56,6 @@ master's degree in CS-AI track at the University of Oulu.
 </div> -->
 
 <!-- https://open.spotify.com/user/s2zngaj7nt3ftk0ut5urf7r1a?si=BouZdWouTSKTIGfBFDWN_Q -->
-
+### 🎵 My recent faves when I code:
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=s2zngaj7nt3ftk0ut5urf7r1a&unique={1})
 
