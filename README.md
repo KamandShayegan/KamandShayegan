@@ -30,10 +30,11 @@ Here are some ideas to get you started:
 <br />
 
  - I am a computer engineer enthusiast who dedicated most of her time to developing mobile applications.
- - I have nearly 3 years of development experience.
- - I am great at spotting weak points and problematic concepts, and I can confidently say that am great at teamwork.
+ - 🌱 I’m currently interested in data analyzation and  artificial intelligence, and that is why I am studying for a
+master's degree in CS-AI track at the University of Oulu.
+ - I have nearly 2.5 years of professional development experience.
+ - I am great at spotting weak points and problematic concepts, and I can confidently say that I am really good at teamwork.
  - I have invested significant time in learning about product development, such as the user interface, mobile applications, websites, and APIs.
- - 🌱 I’m currently learning how to work with data, and that is why I am studying for a master's degree of Computer Science and Engineering (CSE) at the University of Oulu.
 
  - And lastly, learning new things is fun (after running 🏃🏻‍♀️ of course)! 😄 
 
