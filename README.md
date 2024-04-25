@@ -29,13 +29,11 @@ Here are some ideas to get you started:
 <!-- ![Kamands Work Env](https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif) -->
 <br />
 
- - I am a computer engineer enthusiast who dedicated most of her time to developing mobile applications.
- - 🌱 I’m currently interested in data analysis and  artificial intelligence, and that is why I am studying for a
-master's degree in CS-AI track at the University of Oulu.
+ - I am a Master's Student of Computer Science and Engineering at UniOulu.
  - I have nearly 2.5 years of professional development experience.
- - I am great at spotting weak points and problematic concepts, and I can confidently say that I am really good at teamwork.
- - And lastly, brainstorming and problem-solving are food to my soul.
- - 🏃‍♀️ Running keeps me grounded.
+ - I am great at spotting weak points and problematic concepts, and I can confidently say that I am good at teamwork.
+ - Brainstorming and problem-solving are my jam.
+ - Also, 🏃‍♀️ Running keeps me grounded, so let's go for a run! ;)
 
 ### 📫 How to reach me:
 
