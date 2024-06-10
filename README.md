@@ -55,6 +55,6 @@ Here are some ideas to get you started:
 </div> -->
 
 <!-- https://open.spotify.com/user/s2zngaj7nt3ftk0ut5urf7r1a?si=BouZdWouTSKTIGfBFDWN_Q -->
-### 🎵 My recent faves when I code:
+### 🎵 My recent favorites:
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=s2zngaj7nt3ftk0ut5urf7r1a&unique={1})
 
