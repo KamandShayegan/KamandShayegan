@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 <br />
 
  - I am a Master's Student of Computer Science and Engineering at UniOulu.
- - I have nearly 2.5 years of professional development experience.
+ - I have nearly 3+ years of professional development experience.
  - I am great at spotting weak points and problematic concepts, and I can confidently say that I am good at teamwork.
  - Brainstorming and problem-solving are my jam.
  - Also, 🏃‍♀️ Running keeps me grounded, so let's go for a run! ;)
