@@ -49,6 +49,7 @@ Here are some ideas to get you started:
 - Persian: Native
 - English: C1
 - French: B1
+- Finnish: A1
 
 
 <!-- ### 📈 my github stats -->
