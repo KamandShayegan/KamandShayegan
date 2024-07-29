@@ -1,5 +1,5 @@
 
- ### Hi, I'm Kamand & I ❤️ coding
+ ### Hei, Kamand here.
 
 <!--
 **KamandShayegan/KamandShayegan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,10 +18,8 @@ Here are some ideas to get you started:
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kamandshayegan&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) -->
 <div align='left'>
-<img src="https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif" width="450"/>
+<img src="https://media4.giphy.com/media/Dh5q0sShxgp13DwrvG/giphy.gif" width="450"/>
 </div>
-
-##### Fig 1 - Whenever you see me at the university :D
 
 <!-- 
 <div align='center'>
@@ -29,22 +27,29 @@ Here are some ideas to get you started:
 </div> -->
 
 <!-- ![Kamands Work Env](https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif) -->
-<br />
+### 🤔 About me
 
- - I am a Master's Student of Computer Science and Engineering at UniOulu.
- - I have nearly 3+ years of professional development experience.
- - I am great at spotting weak points, and I can confidently say that I am good at teamwork.
- - Brainstorming and problem-solving are my strengths.
- - Also, 🏃‍♀️ Running keeps me grounded, so let's go for a run! ;)
+ 🌱 I am a Master's Student of CS (2nd year) at The University of Oulu.\
+ 💻 I have about 3 years of development experience as a mobile developer.\
+ 👯 I am good at spotting edge cases, teamwork, and problem-solving.\
+ 🔭 I am currently working on an English Poetry Assessment NLP project. 
 
-### 📫 How to reach me:
+ ### 💪 Skill-set
+ - Languages: Dart, Python
+ - Libraries: Flutter, PySpark, Sklearn, NLTK, Tensorflow, PyTorch
+ - OS: Unix-like
+
+### 📫 Reach me
 
 - E-mail: <a href="mailto:w.kshayegan@gmail.com"> w.kshayegan@gmail.com </a>
 
 - LinkedIn: [KamandShayegan](https://www.linkedin.com/in/kamand-shayegan-4361041a7/)
-<!-- - Instagram: [@iamkamand](https://www.instagram.com/iamkamand/) -->
 
-<br />
+### 💬 Languages
+- Persian: Native
+- English: C1
+- French: B1
+
 
 <!-- ### 📈 my github stats -->
 
@@ -57,6 +62,6 @@ Here are some ideas to get you started:
 </div> -->
 
 <!-- https://open.spotify.com/user/s2zngaj7nt3ftk0ut5urf7r1a?si=BouZdWouTSKTIGfBFDWN_Q -->
-### 🎵 My recent favorites:
+### 🎵 Lately listening to
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=s2zngaj7nt3ftk0ut5urf7r1a&unique={1})
 
