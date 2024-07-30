@@ -27,13 +27,13 @@ Here are some ideas to get you started:
 ### 🤔 About me
 
  🌱 I am a Master's Student of CS (2nd year) at The University of Oulu.\
- 💻 I have about 3 years of development experience as a mobile developer.\
+ 💻 I have 3 years of development experience as a mobile developer.\
  👯 I am good at spotting edge cases, teamwork, and problem-solving.\
- 🔭 I am currently working on an English Poetry Assessment NLP project. 
+ 🔭 I am currently working on a Poetry Assessment NLP project. 
 
  ### 💪 Skill-set
  - Languages: Dart, Python
- - Libraries: Flutter, PySpark, Sklearn, NLTK, Tensorflow, PyTorch
+ - Libraries: Flutter, PySpark, MlLib, Sklearn, NLTK, SpaCy
  - OS: Unix-like
 
 ### 📫 Reach me
