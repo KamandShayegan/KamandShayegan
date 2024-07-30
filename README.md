@@ -1,5 +1,11 @@
 
- ### Hey, Kamand here.
+ # Hey, Kamand here.
+
+ ### 🌟 Fields of Interest
+
+| 🔍 **Natural Language Processing** | 👁️ **Machine Vision** |  📊 **Big Data Analysis** | 📱 **Mobile Development** |
+|:----------------------------------:|:---------------------:|:-------------------------:|:------------------------
+
 
 <!--
 **KamandShayegan/KamandShayegan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
