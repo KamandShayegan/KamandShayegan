@@ -26,10 +26,10 @@ Here are some ideas to get you started:
 <!-- ![Kamands Work Env](https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif) -->
 ### 🤔 About me
 
- 🌱 I am a Master's Student of CS (2nd year) at The University of Oulu.\
- 💻 I have 3 years of development experience as a mobile developer.\
+ 🌱 I am a Master's Student of CS (2nd year) at The University of Oulu (Artificial Intelligence track).\
+ 💻 I have 3 years of professional work experience as a Mobile Developer.\
  👯 I am good at spotting edge cases, teamwork, and problem-solving.\
- 🔭 I am currently working on a Poetry Assessment NLP project. 
+ 🔭 I am currently working on a Poetry Assessment NLP project as a personal project. 
 
  ### 💪 Skill-set
  - Languages: Dart, Python
