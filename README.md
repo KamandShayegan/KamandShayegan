@@ -1,5 +1,5 @@
 
- ### Hei, Kamand here.
+ ### Hey, Kamand here.
 
 <!--
 **KamandShayegan/KamandShayegan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,9 +17,6 @@ Here are some ideas to get you started:
 -->
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kamandshayegan&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) -->
-<div align='left'>
-<img src="https://media4.giphy.com/media/Dh5q0sShxgp13DwrvG/giphy.gif" width="450"/>
-</div>
 
 <!-- 
 <div align='center'>
