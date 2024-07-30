@@ -35,25 +35,16 @@ Here are some ideas to get you started:
  🌱 I am a Master's Student of CS (2nd year) at The University of Oulu (Artificial Intelligence track).\
  💻 I have 3 years of professional work experience as a Mobile Developer.\
  👯 I am good at spotting edge cases, teamwork, and problem-solving.\
- 🔭 I am currently working on a Poetry Assessment NLP project as a personal project. 
+ 
+ ### 🔭 Currently
+ - Developing a Poetry Assessment project (utilizing NLP and LLM techniques) as a personal initiative.
+ - Intern at the Center of Machine Vision and Signal Analysis research unit at The University of Oulu.
+ 
 
  ### 💪 Skill-set
  - Languages: Dart, Python
  - Libraries: Flutter, PySpark, MlLib, Sklearn, NLTK, SpaCy
  - OS: Unix-like
-
-### 📫 Reach me
-
-- E-mail: <a href="mailto:w.kshayegan@gmail.com"> w.kshayegan@gmail.com </a>
-
-- LinkedIn: [KamandShayegan](https://www.linkedin.com/in/kamand-shayegan-4361041a7/)
-
-### 💬 Languages
-- Persian: Native
-- English: C1
-- French: B1
-- Finnish: A1
-
 
 <!-- ### 📈 my github stats -->
 
@@ -66,6 +57,21 @@ Here are some ideas to get you started:
 </div> -->
 
 <!-- https://open.spotify.com/user/s2zngaj7nt3ftk0ut5urf7r1a?si=BouZdWouTSKTIGfBFDWN_Q -->
-### 🎵 Lately listening to
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=s2zngaj7nt3ftk0ut5urf7r1a&unique={1})
+### 🏆 Achievements
+- Talking about my programming journey at Oulu's International School
+- Being a Python Teacher at CodeSchool Finland's Future Skills camp
+- Achieving 89% accuracy in training a machine learning model on a big open dataset.
+
+### 💬 Languages
+- Persian: Native
+- English: C1
+- French: B1
+- Finnish: A1
+
+### 📫 Reach me
+
+- E-mail: <a href="mailto:w.kshayegan@gmail.com"> w.kshayegan@gmail.com </a>
+
+- LinkedIn: [KamandShayegan](https://www.linkedin.com/in/kamand-shayegan-4361041a7/)
+
 
