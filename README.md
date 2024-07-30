@@ -3,7 +3,7 @@
 
  ### 🌟 Fields of Interest
 
-| 🔍 **Natural Language Processing** | 👁️ **Machine Vision** |  📊 **Big Data Analysis** | 📱 **Mobile Development** |
+| 🗣️ **Natural Language Processing** | 👁️ **Machine Vision** |  📊 **Big Data Analysis** | 📱 **Mobile Development** |
 |:----------------------------------:|:---------------------:|:-------------------------:|:------------------------
 
 
