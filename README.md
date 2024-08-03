@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 
  🌱 I am a Master's Student of CS (2nd year) at The University of Oulu (Artificial Intelligence track).\
  💻 I have 3 years of professional work experience as a Mobile Developer.\
- 👯 I am good at spotting edge cases, teamwork, and problem-solving.\
+ 👯 I am good at spotting edge cases, teamwork, and problem-solving.
  
  ### 🔭 Currently
  - Developing a Poetry Assessment project (utilizing NLP and LLM techniques) as a personal initiative.
@@ -58,9 +58,9 @@ Here are some ideas to get you started:
 
 <!-- https://open.spotify.com/user/s2zngaj7nt3ftk0ut5urf7r1a?si=BouZdWouTSKTIGfBFDWN_Q -->
 ### 🏆 Achievements
-- Talking about my programming journey at Oulu's International School
-- Being a Python Teacher at CodeSchool Finland's Future Skills camp
-- Achieving 89% accuracy in training a machine learning model on a big open dataset.
+- Talking about my programming journey at Oulu's International School, [here](https://www.linkedin.com/feed/update/urn:li:activity:7211978227693584384/).
+- Being a Python Teacher at CodeSchool Finland's Future Skills camp, [here](https://www.linkedin.com/feed/update/urn:li:activity:7172705486222311425/).
+- Achieving 89% accuracy in training a machine learning model on a big open dataset, [here](https://github.com/KamandShayegan/a-bigdata-clickstream-analysis).
 
 ### 💬 Languages
 - Persian: Native
