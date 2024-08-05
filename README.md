@@ -71,7 +71,6 @@ Here are some ideas to get you started:
 ### 📫 Reach me
 
 - E-mail: <a href="mailto:w.kshayegan@gmail.com"> w.kshayegan@gmail.com </a>
-
 - LinkedIn: [KamandShayegan](https://www.linkedin.com/in/kamand-shayegan-4361041a7/)
 
 
