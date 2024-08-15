@@ -1,10 +1,24 @@
 
  # Hey, Kamand here.
 
+ ### 🤔 About me
+
+ 🌱 I am a Master's Student of CS (2nd year) at The University of Oulu (Artificial Intelligence track).\
+ 💻 I have 3 years of professional work experience as a Mobile Developer.\
+ 👯 I am good at spotting edge cases, teamwork, and problem-solving.
+
  ### 🌟 Fields of Interest
 
 | 🗣️ **Natural Language Processing** | 👁️ **Machine Vision** |  📊 **Big Data Analysis** | 📱 **Mobile Development** |
 |:----------------------------------:|:---------------------:|:-------------------------:|:------------------------
+
+### 🛠️ Previous Work Experience
+| **Role**                 | **Company**                | **Duration**       | **Total Duration** |
+|--------------------------|----------------------------|--------------------|--------------------|
+| Summer Intern            | University of Oulu         | Jun 2024 - Jul 2024 | 2 months           |
+| Mobile Developer         | Ernyka                     | Dec 2022 - Jun 2023 | 7 months           |
+| Mobile Developer         | Narvan Startup Studio     | Apr 2021 - Oct 2022 | 18 months          |
+| Mobile Developer         | Erfan Salamat             | Jul 2020 - Mar 2021 | 9 months           |
 
 
 <!--
@@ -30,20 +44,13 @@ Here are some ideas to get you started:
 </div> -->
 
 <!-- ![Kamands Work Env](https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif) -->
-### 🤔 About me
-
- 🌱 I am a Master's Student of CS (2nd year) at The University of Oulu (Artificial Intelligence track).\
- 💻 I have 3 years of professional work experience as a Mobile Developer.\
- 👯 I am good at spotting edge cases, teamwork, and problem-solving.
  
  ### 🔭 Currently
- - Developing a Poetry Assessment project (utilizing NLP and LLM techniques) as a personal initiative.
- - Intern at the Center of Machine Vision and Signal Analysis research unit at The University of Oulu.
+ - Developing a Poetry Assessment project (utilizing NLP and LLM techniques) as a personal initiative. **(paused for vacation purposes)**
  
 
- ### 💪 Skill-set
- - Languages: Dart, Python
- - Libraries: Flutter, PySpark, MlLib, Sklearn, NLTK, SpaCy
+ ### 💪 Skill-set (Languages, Libraries and Tools)
+ - Dart, Python, Flutter, Spark, MlLib, Sklearn, NLTK, SpaCy, Git, AWS, SQL
  - OS: Unix-like
 
 <!-- ### 📈 my github stats -->
